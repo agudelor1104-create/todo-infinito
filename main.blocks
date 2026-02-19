@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="b~dS#!XOYE!kHp2d|2z3">sprite</variable></variables><block type="device_forever" id="=2.iBXV;haAZ?L*WL_x[" x="0" y="0"><statement name="HANDLER"><block type="game_resume" id="UZuSa5$~o#p#u%OWe;IV"></block></statement></block></xml>
